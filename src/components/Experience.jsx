@@ -9,12 +9,11 @@ export const Experience = () => {
 
   const { avatar } = useControls("VRM", {
     avatar: {
-      value: "3859814441197244330.vrm",
+      value: "porto_tes.vrm",
       options: [
-        "262410318834873893.vrm",
-        "3859814441197244330.vrm",
         "3636451243928341470.vrm",
         "8087383217573817818.vrm",
+        "porto_tes.vrm",
       ],
     },
   });
